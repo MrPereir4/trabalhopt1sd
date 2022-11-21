@@ -47,6 +47,7 @@ python3 admin.py
 - [x] Portal do Administrador
 - [x] Portal do Cliente
 - [x] Suporte a múltiplos portais
+- [] Suporte a múltiplos portais
 
   
 ### Mecanismos de Comunicação
