@@ -6,7 +6,7 @@
 - Clone o projeto
 
 ```bash
-git clone https://github.com/MrPereir4/trabalhopt1sd.git
+git clone https://github.com/MrPereir4/trabalhopt1sd
 ```
 ### Preparando o ambiente
 
